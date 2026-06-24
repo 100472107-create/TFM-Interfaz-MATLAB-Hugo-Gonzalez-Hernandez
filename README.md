@@ -2,6 +2,8 @@
 Interfaz gráfica desarrollada en MATLAB para el TFM del Máster de Energías Renovables en Sistemas Térmicos
 
 ## Contenido del repositorio
+
+```
 WIND_UI_live.m          # Interfaz gráfica principal
 WIND_coreN.m            # Núcleo BEM para N perfiles y N-1 cortes
 CPfun.m                 # Cálculo del coeficiente de potencia CP
@@ -16,6 +18,7 @@ avePow3.m
 read_polars.m           # Lectura de polares aerodinámicas desde CSV
 caso_referencia.mat     # Caso de referencia guardado
 data-*.csv              # Polares aerodinámicas por perfil (XFOIL)
+```
 
 ## Requisitos
 - **MATLAB R2021a o superior** (se recomienda R2023a+)
